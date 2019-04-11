@@ -8,8 +8,8 @@ int solveMeFirst(int a, int b);
 
 where,
 
-    - a is the first integer input.
-    - b is the second integer input
+- a is the first integer input.
+- b is the second integer input
 
 **Return values**
 
