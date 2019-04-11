@@ -2,7 +2,7 @@
 
 Complete the function solveMeFirst to compute the sum of two integers.
 
-### **Function prototype:**
+### Function prototype:
 
 int solveMeFirst(int a, int b);
 
