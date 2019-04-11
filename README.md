@@ -13,11 +13,12 @@ where,
 
 **Return values**
 
-    - sum of the above two integers
+- sum of the above two integers
 
 **Sample Input**
 
 a = 2
+
 b = 3
 
 **Sample Output**
